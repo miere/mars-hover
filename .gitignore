@@ -1,0 +1,13 @@
+# Ignore Gradle/Maven project-specific cache directory
+.gradle
+build
+target
+
+# IntelliJ
+.idea
+*.iml
+
+# Binaries
+*.jar
+*.zip
+
